@@ -1,0 +1,7 @@
+public class test{
+	public static void main(String[] args){
+		int i = 1;
+		float a = 3;
+		System.out.println("hi);
+	}
+}
